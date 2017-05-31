@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HW10.vcxproj, sfml-template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-c:\users\sherry\documents\visual studio 2015\projects\hw12\sfml-template\main.cpp(18): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\sherry\documents\visual studio 2015\projects\hw12\sfml-template\main.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\sherry\documents\visual studio 2015\projects\hw12\sfml-template\main.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\sherry\documents\visual studio 2015\projects\hw12\sfml-template\main.cpp(134): error C3867: 'Circle::getX': non-standard syntax; use '&' to create a pointer to member
-c:\users\sherry\documents\visual studio 2015\projects\hw12\sfml-template\main.cpp(134): error C3867: 'Circle::getY': non-standard syntax; use '&' to create a pointer to member

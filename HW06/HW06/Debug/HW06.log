@@ -1,4 +1,0 @@
-﻿  main.cpp
-c:\users\sherry\documents\visual studio 2015\projects\hw06\hw06\main.cpp(138): warning C4715: 'CardSuit': not all control paths return a value
-  HW06.vcxproj -> c:\users\sherry\documents\visual studio 2015\Projects\HW06\Debug\HW06.exe
-  HW06.vcxproj -> c:\users\sherry\documents\visual studio 2015\Projects\HW06\Debug\HW06.pdb (Partial PDB)
