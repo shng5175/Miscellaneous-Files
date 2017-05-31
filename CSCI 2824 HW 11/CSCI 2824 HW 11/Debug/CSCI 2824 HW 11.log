@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sherry\documents\visual studio 2015\projects\csci 2824 hw 11\csci 2824 hw 11\main.cpp(6): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CSCI 2824 HW 11.vcxproj -> c:\users\sherry\documents\visual studio 2015\Projects\CSCI 2824 HW 11\Debug\CSCI 2824 HW 11.exe
+  CSCI 2824 HW 11.vcxproj -> c:\users\sherry\documents\visual studio 2015\Projects\CSCI 2824 HW 11\Debug\CSCI 2824 HW 11.pdb (Partial PDB)

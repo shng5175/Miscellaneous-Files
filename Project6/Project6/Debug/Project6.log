@@ -1,0 +1,12 @@
+﻿  MovieTree.cpp
+  Driver.cpp
+  Generating Code...
+MovieTree.obj : error LNK2005: "public: __thiscall MovieTree::MovieTree(void)" (??0MovieTree@@QAE@XZ) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "public: __thiscall MovieTree::~MovieTree(void)" (??1MovieTree@@QAE@XZ) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "public: void __thiscall MovieTree::addMovieNode(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (?addMovieNode@MovieTree@@QAEXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "public: void __thiscall MovieTree::findMovie(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?findMovie@MovieTree@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "private: void __thiscall MovieTree::printMovieInventory(struct MovieNode *)" (?printMovieInventory@MovieTree@@AAEXPAUMovieNode@@@Z) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "public: void __thiscall MovieTree::printMovieInventory(void)" (?printMovieInventory@MovieTree@@QAEXXZ) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "public: void __thiscall MovieTree::rentMovie(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?rentMovie@MovieTree@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Driver.obj
+MovieTree.obj : error LNK2005: "private: struct MovieNode * __thiscall MovieTree::search(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?search@MovieTree@@AAEPAUMovieNode@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Driver.obj
+c:\users\sherry\documents\visual studio 2015\Projects\Project6\Debug\Project6.exe : fatal error LNK1169: one or more multiply defined symbols found

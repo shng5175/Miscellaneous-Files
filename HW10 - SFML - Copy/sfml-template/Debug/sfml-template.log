@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sfml-template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Melon.cpp
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(5): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(6): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(8): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(25): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(33): warning C4244: '+=': conversion from 'const double' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(41): warning C4244: '-=': conversion from 'const double' to 'float', possible loss of data
+c:\users\sherry\documents\visual studio 2015\projects\hw10 - sfml - copy\sfml-template\melon.cpp(49): warning C4244: '+=': conversion from 'const double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  sfml-template.vcxproj -> C:\Users\Sherry\Documents\Visual Studio 2015\Projects\HW10 - SFML - Copy\Debug\HW10.exe
